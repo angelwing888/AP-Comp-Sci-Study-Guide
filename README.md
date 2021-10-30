@@ -28,6 +28,9 @@ Guide to Commenting: https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html
 
 Guide to Python DocStrings: https://www.geeksforgeeks.org/python-docstrings/
 
+AP Classroom: https://apstudents.collegeboard.org/
+
+AP CSP Exam Reference Sheet: https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-exam-reference-sheet.pdf
 
 **Studying tips:**
 
