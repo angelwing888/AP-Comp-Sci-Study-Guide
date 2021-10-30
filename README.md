@@ -15,6 +15,8 @@ Floating-point numbers/Floats: Numbers where the decimal point can float because
 
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met. 
 
+Natural language: A complex, but structured language, both written and spoken, that has evolved naturally in humans through use, repititon, and adaption.
+
 Selection: Uses "if...then" to tell a computer how to select a step or to tell the sequence that it should be executed.
 
 String: A linear sequence of characters, words, or other data
