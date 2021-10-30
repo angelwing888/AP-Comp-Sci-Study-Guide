@@ -58,3 +58,7 @@ AP CSP Exam Reference Sheet: https://apcentral.collegeboard.org/pdf/ap-computer-
 **Quizzes:**
 
 AP CS Quizlet: https://quizlet.com/subject/ap-computer-science/?__cf_chl_captcha_tk__=pmd_PnCnrxvp_sZt41bhUFi_94XUQJ20BHO5_IFxNGRYCWg-1635563734-0-gqNtZGzNA1CjcnBszQzl
+
+**Other:**
+
+Donut recipe for when AP CSP makes you want to cry: https://www.delish.com/cooking/recipe-ideas/a24788319/how-to-make-donuts-at-home/
