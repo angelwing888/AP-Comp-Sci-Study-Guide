@@ -34,6 +34,8 @@ High level language: Easier for humans to read, write, and parse.
 
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
+LAN: LAN stands for Local Area Network, this is a small computer network, sometimes located within a single room or building or location.
+
 Low level language: Has little to no abstraction and communicates closely to the hardware using machine language. Less natural for humans.
 
 Machine code: Machine level instructions that are uniquely read by computer processors using patterns of 1s and 0s.
