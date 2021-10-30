@@ -17,6 +17,8 @@ Bug: An error in a program that cases problems / unexpected behavior in a progra
 
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
+CPU: The Central Processing Unit or CPU for short is the processing chip for a computer.
+
 Data Structure: A specialized format for organizing, processing, storing and retrieving data.
 
 Debug: To identify and remove problems in a program
