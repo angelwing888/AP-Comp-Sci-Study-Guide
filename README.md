@@ -1,6 +1,6 @@
 # AP-Comp-Sci-Study-Guide
-_Put all your vocab and study tips here!_
 
+_Put all your vocab and study tips here!_
 
 **Vocabulary:**
 Algorithm: A set of instructions that accomplish a specific task (this is applicable outside of coding too)
@@ -15,6 +15,8 @@ Branching: Instruction in a computer program that can cause a computer to begin 
 
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
+Data Structure: A specialized format for organizing, processing, storing and retrieving data.
+
 Debug: To identify and remove problems in a program
 
 Definite loop: Executes a predetermined set of times for a loop to be repeated.
@@ -25,7 +27,7 @@ Floating-point numbers/Floats: Numbers where the decimal point can float because
 
 High level language: Easier for humans to read, write, and parse.
 
-Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met. 
+Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
 Low level language: Has little to no abstraction and communicates closely to the hardware using machine language. Less natural for humans.
 
