@@ -31,7 +31,9 @@ Guide to Python DocStrings: https://www.geeksforgeeks.org/python-docstrings/
 
 **Studying tips:**
 
+1. Read all tasks and questions carefully! It's easy to get caught into the sublties of AP CSP questions.
 
+2. Communicate! Communicate well when collaborating with others and comment on your programs.
 
 **Quizzes:**
 
