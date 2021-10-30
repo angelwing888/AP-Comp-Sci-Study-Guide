@@ -7,6 +7,8 @@ Algorithm: A set of instructions that accomplish a specific task (this is applic
 
 Binary code: Code represented with the two symbols of 1 and 0
 
+Bits: The foundation for digital computing (1s and 0s) - short for binary digits
+
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
 Floating-point numbers/Floats: Numbers where the decimal point can float because there is no fixed number of digits before and after the decimal point. AKA: real numbers
@@ -14,6 +16,8 @@ Floating-point numbers/Floats: Numbers where the decimal point can float because
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met. 
 
 Selection: Uses "if...then" to tell a computer how to select a step or to tell the sequence that it should be executed.
+
+String: A linear sequence of characters, words, or other data
 
 
 **Web Resources:**
@@ -25,3 +29,4 @@ Selection: Uses "if...then" to tell a computer how to select a step or to tell t
 
 
 **Quizzes:**
+AP CS Quizlet: https://quizlet.com/subject/ap-computer-science/?__cf_chl_captcha_tk__=pmd_PnCnrxvp_sZt41bhUFi_94XUQJ20BHO5_IFxNGRYCWg-1635563734-0-gqNtZGzNA1CjcnBszQzl
