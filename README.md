@@ -3,6 +3,7 @@
 _Put all your vocab and study tips here!_
 
 **Vocabulary:**
+
 Algorithm: A set of instructions that accomplish a specific task (this is applicable outside of coding too)
 
 Baudot code: A binary code invented by Emilie Baudot in 1870 that uses crosses and dots to encode 2^5 or 32 characters.
