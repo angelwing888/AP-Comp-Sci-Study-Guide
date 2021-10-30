@@ -22,6 +22,11 @@ String: A linear sequence of characters, words, or other data
 
 **Web Resources:**
 
+How to sort a list (various languages): https://www.w3schools.com/python/ref_list_sort.asp
+
+Guide to Commenting: https://www.cs.utah.edu/~germain/PPS/Topics/commenting.html
+
+Guide to Python DocStrings: https://www.geeksforgeeks.org/python-docstrings/
 
 
 **Studying tips:**
