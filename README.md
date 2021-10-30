@@ -38,6 +38,8 @@ Low level language: Has little to no abstraction and communicates closely to the
 
 Machine code: Machine level instructions that are uniquely read by computer processors using patterns of 1s and 0s.
 
+RAM: Stands for Random Access Memory, this is a short term memery that is faster to read and write to than a computers hard drive. RAM is volatile meaning that it needs power to maintain data. If a computer is shutoff, the data in the RAM is erased.
+
 Selection: Uses "if...then" to tell a computer how to select a step or to tell the sequence that it should be executed.
 
 String: A linear sequence of characters, words, or other data
