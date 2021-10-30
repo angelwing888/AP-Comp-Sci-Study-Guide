@@ -48,6 +48,8 @@ String: A linear sequence of characters, words, or other data
 
 Visiual programming language: Use drag and drop blocks rather than text (ex. Scratch)
 
+WAN: WAN stans for Wide Area Network, this is a computer network that extends a large geographic area.
+
 **Web Resources:**
 
 How to sort a list (various languages): https://www.w3schools.com/python/ref_list_sort.asp
