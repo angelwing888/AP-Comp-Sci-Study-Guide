@@ -13,6 +13,8 @@ Bits: The foundation for digital computing (1s and 0s) - short for binary digits
 
 Branching: Instruction in a computer program that can cause a computer to begin executing a different sequence of instruction.
 
+Bug: An error in a program that cases problems / unexpected behavior in a program.
+
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
 Data Structure: A specialized format for organizing, processing, storing and retrieving data.
