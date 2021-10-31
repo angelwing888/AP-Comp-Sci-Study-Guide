@@ -8,6 +8,8 @@ Algorithm: A set of instructions that accomplish a specific task (this is applic
 
 Baudot code: A binary code invented by Emilie Baudot in 1870 that uses crosses and dots to encode 2^5 or 32 characters.
 
+Big Data: Big data referst to data that is collected by companies. Companies collect a lot of data and therefore it is known as big data.
+
 Binary code: Code represented with the two symbols of 1 and 0
 
 Bits: The foundation for digital computing (1s and 0s) - short for binary digits
