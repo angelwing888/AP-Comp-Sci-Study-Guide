@@ -38,6 +38,8 @@ Floating-point numbers/Floats: Numbers where the decimal point can float because
 
 High level language: Easier for humans to read, write, and parse.
 
+IDE: IDE stands for Integrated Develoment Environment. An IDE is used for writing code and they usually contain additional features like compiling adn debugging tools.
+
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
 LAN: LAN stands for Local Area Network, this is a small computer network, sometimes located within a single room or building or location.
