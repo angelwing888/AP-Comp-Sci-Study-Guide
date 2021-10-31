@@ -34,15 +34,23 @@ High level language: Easier for humans to read, write, and parse.
 
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
+LAN: LAN stands for Local Area Network, this is a small computer network, sometimes located within a single room or building or location.
+
 Low level language: Has little to no abstraction and communicates closely to the hardware using machine language. Less natural for humans.
 
 Machine code: Machine level instructions that are uniquely read by computer processors using patterns of 1s and 0s.
+
+RAM: Stands for Random Access Memory, this is a short term memery that is faster to read and write to than a computers hard drive. RAM is volatile meaning that it needs power to maintain data. If a computer is shutoff, the data in the RAM is erased.
+
+ROM: ROM stands for Read Only Memory. This memory can only be read from but not written to.
 
 Selection: Uses "if...then" to tell a computer how to select a step or to tell the sequence that it should be executed.
 
 String: A linear sequence of characters, words, or other data
 
 Visiual programming language: Use drag and drop blocks rather than text (ex. Scratch)
+
+WAN: WAN stans for Wide Area Network, this is a computer network that extends a large geographic area.
 
 **Web Resources:**
 
