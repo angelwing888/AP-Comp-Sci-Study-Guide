@@ -40,6 +40,8 @@ High level language: Easier for humans to read, write, and parse.
 
 IDE: IDE stands for Integrated Develoment Environment. An IDE is used for writing code and they usually contain additional features like compiling adn debugging tools.
 
+Interpreter: A program on a computer that directly runs code without having to compile it into a machine language program first.
+
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
 LAN: LAN stands for Local Area Network, this is a small computer network, sometimes located within a single room or building or location.
