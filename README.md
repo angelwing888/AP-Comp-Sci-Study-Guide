@@ -18,6 +18,8 @@ Branching: Instruction in a computer program that can cause a computer to begin 
 
 Bug: An error in a program that cases problems / unexpected behavior in a program.
 
+Cipher: An algoirthom in cyber security for perfoming encryption or decryption.
+
 Cloud Storage: Cloud Storage is an alternative way to store data that is not on a local device but instead it is stored online in the "cloud". Data that is stored on the cloud can usually be accessed from anywhere through the internet.
 
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
