@@ -22,6 +22,8 @@ Cipher: An algoirthom in cyber security for perfoming encryption or decryption.
 
 Cloud Storage: Cloud Storage is an alternative way to store data that is not on a local device but instead it is stored online in the "cloud". Data that is stored on the cloud can usually be accessed from anywhere through the internet.
 
+Compiler: A program on a computer that can transalate code from one programming language to another. They are usually used to translate a higher level programming langague into a machine readable program so that it can be ran by the computer.
+
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
 CPU: The Central Processing Unit or CPU for short is the processing chip for a computer.
