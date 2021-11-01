@@ -52,6 +52,10 @@ Low level language: Has little to no abstraction and communicates closely to the
 
 Machine code: Machine level instructions that are uniquely read by computer processors using patterns of 1s and 0s.
 
+Memory: Storage space in the computer where data is to be processed and instructions required for processing are stored.
+
+PAN: PAN stands for Personal Area Network, it is a computer network for inteconnecting electronics devices within an individual person's workspace.
+
 RAM: Stands for Random Access Memory, this is a short term memery that is faster to read and write to than a computers hard drive. RAM is volatile meaning that it needs power to maintain data. If a computer is shutoff, the data in the RAM is erased.
 
 ROM: ROM stands for Read Only Memory. This memory can only be read from but not written to.
