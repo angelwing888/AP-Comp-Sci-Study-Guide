@@ -8,6 +8,8 @@ Algorithm: A set of instructions that accomplish a specific task (this is applic
 
 Baudot code: A binary code invented by Emilie Baudot in 1870 that uses crosses and dots to encode 2^5 or 32 characters.
 
+Big Data: Big data referst to data that is collected by companies. Companies collect a lot of data and therefore it is known as big data.
+
 Binary code: Code represented with the two symbols of 1 and 0
 
 Bits: The foundation for digital computing (1s and 0s) - short for binary digits
@@ -15,6 +17,12 @@ Bits: The foundation for digital computing (1s and 0s) - short for binary digits
 Branching: Instruction in a computer program that can cause a computer to begin executing a different sequence of instruction.
 
 Bug: An error in a program that cases problems / unexpected behavior in a program.
+
+Cipher: An algoirthom in cyber security for perfoming encryption or decryption.
+
+Cloud Storage: Cloud Storage is an alternative way to store data that is not on a local device but instead it is stored online in the "cloud". Data that is stored on the cloud can usually be accessed from anywhere through the internet.
+
+Compiler: A program on a computer that can transalate code from one programming language to another. They are usually used to translate a higher level programming langague into a machine readable program so that it can be ran by the computer.
 
 Computer science: The study of the ideas, ways of thinking, languages, software, and hardware needed to solve problems with computers
 
@@ -31,6 +39,10 @@ Dichotomous: Something can only be one thing or another (yes or no)
 Floating-point numbers/Floats: Numbers where the decimal point can float because there is no fixed number of digits before and after the decimal point. AKA: real numbers
 
 High level language: Easier for humans to read, write, and parse.
+
+IDE: IDE stands for Integrated Develoment Environment. An IDE is used for writing code and they usually contain additional features like compiling adn debugging tools.
+
+Interpreter: A program on a computer that directly runs code without having to compile it into a machine language program first.
 
 Iteration: Repetition - one complete step of a loop, repeated until a certain condition is met.
 
